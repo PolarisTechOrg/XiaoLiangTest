@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8686E901-B13B-4BC7-B698-5CCCC2B381F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IOSTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>36B5EDA1107E8B3CB6DF5A64C0EC0C545991725A</key>
+		<string>https://github.com/PolarisTechOrg/XiaoLiangTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOSTest/IOSTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>36B5EDA1107E8B3CB6DF5A64C0EC0C545991725A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PolarisTechOrg/XiaoLiangTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>36B5EDA1107E8B3CB6DF5A64C0EC0C545991725A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>36B5EDA1107E8B3CB6DF5A64C0EC0C545991725A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XiaoLiangTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

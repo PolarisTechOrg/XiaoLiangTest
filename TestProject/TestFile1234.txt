@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 12345678
 
 
@@ -12,3 +13,6 @@ something add here
 
 
 test commit by xiaoliang
+=======
+12345678
+>>>>>>> parent of 64fe0f4... 2

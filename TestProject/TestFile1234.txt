@@ -14,8 +14,14 @@ something add here
 
 test commit by xiaoliang
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 test2 branch
+=======
+=======
+12345678
+>>>>>>> parent of 64fe0f4... 2
+>>>>>>> FETCH_HEAD
 =======
 =======
 12345678
